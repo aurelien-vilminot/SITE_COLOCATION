@@ -3,3 +3,11 @@ function slowScroll(where) {
     $('html, body').animate({
         scrollTop: location }, 1000);
 }
+
+function customFail() {
+    $('main')
+        .empty()
+        .html('Une erreur est survenue lors du chargement des photos')
+        .hide()
+        .fadeIn()
+}
