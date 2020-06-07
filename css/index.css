@@ -1,6 +1,4 @@
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 html, body, p, a, h4 {
     margin : 0;
@@ -12,20 +10,20 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: Cambria, serif;
     font-size: 1.4vw;
     color: #212322;
     background: white;
 }
 
 h2 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Cambria, serif;
     font-size: 1.7vw;
     text-align: justify;
 }
 
 h3 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Cambria, serif;
     font-size: 2vw;
     text-align: justify;
 }
@@ -43,7 +41,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Cambria, serif;
     font-size: 2vw;
 }
 
