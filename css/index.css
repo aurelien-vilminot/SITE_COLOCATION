@@ -173,6 +173,12 @@ article div {
     margin-bottom: 2vw;
 }
 
+iframe {
+    margin-top: 2vw;
+    width: 60vw;
+    height: 33.8vw;
+}
+
 @media only screen and (max-width: 740px) {
 
     body {
